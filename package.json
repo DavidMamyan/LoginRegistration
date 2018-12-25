@@ -1,0 +1,19 @@
+{
+  "name": "logreg",
+  "version": "0.1.1",
+  "description": "Simple login registration application.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Login",
+    "registration",
+    "Mamyan"
+  ],
+  "author": "David Mamyan",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
